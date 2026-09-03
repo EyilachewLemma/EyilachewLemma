@@ -148,8 +148,6 @@ DevOps & Cloud
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <a href="https://github.com/EyilachewLemma">
