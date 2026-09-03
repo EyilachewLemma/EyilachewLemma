@@ -148,17 +148,25 @@ DevOps & Cloud
 
 ## 📊 GitHub Statistics
 
-<div align="center" style="display:flex;justify-content:space-between">
+## 📊 GitHub Statistics
 
-<img
-  height="180"
-  src="https://github-readme-stats-git-master-eyilachewlemmas-projects.vercel.app/api?username=EyilachewLemma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-/>
+<div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats-git-master-eyilachewlemmas-projects.vercel.app/api/top-langs/?username=EyilachewLemma&layout=compact&hide_border=true&langs_count=8&count_private=true"
-/>
+<a href="https://github.com/EyilachewLemma">
+  <img
+    width="49%"
+    src="https://github-readme-stats-git-master-eyilachewlemmas-projects.vercel.app/api?username=EyilachewLemma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&border_radius=12"
+    alt="Eyilachew's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/EyilachewLemma">
+  <img
+    width="49%"
+    src="https://github-readme-stats-git-master-eyilachewlemmas-projects.vercel.app/api/top-langs/?username=EyilachewLemma&layout=compact&hide_border=true&langs_count=8&count_private=true&theme=transparent&border_radius=12"
+    alt="Eyilachew's Top Languages"
+  />
+</a>
 
 </div>
 
