@@ -126,9 +126,9 @@ I'm particularly interested in the complete journey of an application:
 
 I'm always interested in discussing software engineering, backend development, system design, DevOps, and cloud technologies.
 
-* 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-* 📧 Email: [Your Email](mailto:YOUR_EMAIL)
-* 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
+* 💼 LinkedIn: (https://www.linkedin.com/in/eyilachew-lemma-072485213/)
+* 📧 Email: (mailto:eyilachewlema@gmail.com)
+* 🌐 Portfolio: (https://eyilachew.vercel.app/)
 
 ---
 
