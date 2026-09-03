@@ -148,7 +148,7 @@ DevOps & Cloud
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="center" style="display:flex;justify-content:space-between">
 
 <img
   height="180"
