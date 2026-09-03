@@ -152,12 +152,12 @@ DevOps & Cloud
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=EyilachewLemma&show_icons=true&hide_border=true"
+  src="https://github-readme-stats-git-master-eyilachewlemmas-projects.vercel.app/api?username=EyilachewLemma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
 />
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyilachewLemma&layout=compact&hide_border=true&langs_count=8"
+  src="https://github-readme-stats-git-master-eyilachewlemmas-projects.vercel.app/api/top-langs/?username=EyilachewLemma&layout=compact&hide_border=true&langs_count=8&count_private=true"
 />
 
 </div>
