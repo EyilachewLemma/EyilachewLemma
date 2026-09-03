@@ -1,25 +1,38 @@
-# Hi, I'm Eyilachew 👋
+<div align="center">
 
-### Backend Developer | Full-Stack Engineer | DevOps & Cloud Enthusiast
+# 👋 Hi, I'm Eyilachew Lemma
 
-I'm a software developer focused on building **reliable, scalable, and maintainable web applications**.
+### Backend Developer · Full-Stack Engineer · DevOps & Cloud Enthusiast
 
-I started my career primarily on the frontend, working extensively with React and TypeScript. Today, I'm expanding deeper into **backend engineering, system design, DevOps, and cloud infrastructure**.
+Building reliable, scalable and maintainable software systems.
 
-I enjoy understanding how systems work beyond the UI, from APIs and databases to containers, CI/CD pipelines, and production deployments.
+<p>
+  <a href="https://github.com/EyilachewLemma">
+    <img src="https://img.shields.io/github/followers/EyilachewLemma?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/EyilachewLemma?tab=repositories">
+    <img src="https://img.shields.io/github/stars/EyilachewLemma?affiliations=OWNER&style=for-the-badge&label=Stars" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 About Me
 
-* Build modern web applications with **TypeScript and JavaScript**
-* Design and develop **REST APIs and backend services**
-* Work with **relational databases and ORMs**
-* Build applications using **React and Next.js**
-* Containerize applications with **Docker**
-* Build and automate **CI/CD pipelines**
-* Deploy and manage applications on **AWS**
-* Design scalable systems and improve application architecture
+I'm a software developer with a strong frontend background and a growing focus on **backend engineering, system design, DevOps, and cloud infrastructure**.
+
+I enjoy building software across the entire lifecycle, from designing APIs and databases to containerizing applications, automating deployments, and running production systems.
+
+My current goal is to become a **backend-focused full-stack engineer** who can design, build, deploy, and maintain production-ready applications.
+
+* 🔭 Currently focusing on **Backend Development, System Design & DevOps**
+* 🌱 Learning **NestJS, PostgreSQL, Kubernetes, AWS & CI/CD**
+* 🏗️ Interested in **scalable backend architecture and distributed systems**
+* 🐳 Working with **Docker, Nginx and GitHub Actions**
+* ☁️ Exploring **cloud-native application development**
+* 💡 I enjoy turning real-world problems into practical software solutions
 
 ---
 
@@ -28,108 +41,202 @@ I enjoy understanding how systems work beyond the UI, from APIs and databases to
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
 </p>
 
 ### Database & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
 </p>
 
 ### DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,kubernetes,linux" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,kubernetes,linux" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,pnpm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,pnpm,postman,figma" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🚕 Huloo Ride
 
 A ride-hailing and delivery platform consisting of customer and driver applications, an administration dashboard, and backend services.
 
-**Technologies:** React, TypeScript, Node.js, REST APIs, Docker, Nginx, AWS
+**Focus:** Real-world business workflows, REST APIs, authentication, database integration, Docker and cloud deployment.
+
+**Technologies:** React · TypeScript · Node.js · REST APIs · Docker · Nginx · AWS
 
 ---
 
-### 🛒 Spare Parts E-Commerce Platform
+### 🛒 Spare Parts E-Commerce
 
-A modern e-commerce platform for managing and selling automotive spare parts.
+A full-stack e-commerce platform for browsing, searching and managing automotive spare parts.
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS, Node.js, Express, MySQL, Prisma
+**Focus:** E-commerce workflows, product management, database design and full-stack architecture.
+
+**Technologies:** Next.js · TypeScript · Node.js · Express · MySQL · Prisma · Docker
 
 ---
 
 ### 🎓 Student Information Management System
 
-A comprehensive student information management system for managing schools, students, teachers, courses, academic years, grades, sections, and results.
+A comprehensive system for managing schools, academic years, courses, students, teachers, grades, sections and academic results.
 
-**Technologies:** React, TypeScript, Node.js, REST APIs, SQL
+**Focus:** Role-based access control, academic workflows, automated result calculation and certificate generation.
+
+**Technologies:** React · TypeScript · Node.js · SQL · REST APIs
+
+---
+
+## 🧠 What I'm Focusing On
+
+```text
+Backend Engineering
+        │
+        ├── API Design
+        ├── Authentication & Authorization
+        ├── Database Design
+        ├── Performance & Optimization
+        └── Testing
+
+System Design
+        │
+        ├── Scalable Architecture
+        ├── Distributed Systems
+        ├── Caching
+        ├── Message-Based Communication
+        └── Reliability
+
+DevOps & Cloud
+        │
+        ├── Docker
+        ├── CI/CD
+        ├── Linux
+        ├── Nginx
+        ├── AWS
+        └── Kubernetes
+```
 
 ---
 
 ## 🌱 Currently Learning
 
-I'm currently focusing on becoming a stronger backend and infrastructure engineer.
-
-* Backend architecture
-* System design
-* Node.js & NestJS
-* PostgreSQL & database design
-* Docker & containerization
-* Kubernetes
-* AWS
-* CI/CD with GitHub Actions
-* Linux & networking
-* Distributed systems
+* **NestJS** and advanced backend architecture
+* **PostgreSQL** and advanced database design
+* **Docker** and containerization
+* **Kubernetes** and container orchestration
+* **AWS** and cloud infrastructure
+* **GitHub Actions** and CI/CD
+* **System Design** and distributed systems
+* Backend testing and observability
 
 ---
 
-## 🎯 My Current Goal
+## 📊 GitHub Statistics
 
-> Become a strong backend-focused full-stack engineer who can design, build, deploy, and maintain production-ready systems.
+<div align="center">
 
-I'm particularly interested in the complete journey of an application:
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EyilachewLemma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-**Architecture → Development → Testing → Containerization → CI/CD → Deployment → Monitoring**
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyilachewLemma&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=EyilachewLemma&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EyilachewLemma/EyilachewLemma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 📈 My Engineering Journey
+
+```text
+Frontend Development
+        ↓
+Full-Stack Development
+        ↓
+Backend Engineering
+        ↓
+System Design
+        ↓
+Docker & CI/CD
+        ↓
+AWS & Cloud Infrastructure
+        ↓
+Production Engineering
+```
+
+I'm interested in understanding not only **how to build software**, but also **how to deploy, operate, scale and maintain it in production**.
+
+---
+
+## 💼 Development Philosophy
+
+> Build it clearly.
+> Test it properly.
+> Deploy it reliably.
+> Improve it continuously.
+
+I believe good software is not just about writing code. It's about understanding the problem, designing the right solution, keeping the system maintainable, and making it reliable in production.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing software engineering, backend development, system design, DevOps, and cloud technologies.
+<div align="center">
 
-* 💼 LinkedIn: https://www.linkedin.com/in/eyilachew-lemma-072485213/
-* 📧 Email: mailto:eyilachewlema@gmail.com
-* 🌐 Portfolio: https://eyilachew.vercel.app/
+<a href="https://github.com/EyilachewLemma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-⭐ If you find something useful in my repositories, feel free to explore, fork, or contribute.
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find something useful in my repositories, feel free to explore, star, fork, or contribute.
+
+**Let's build something useful. 🚀**
+
+</div>
