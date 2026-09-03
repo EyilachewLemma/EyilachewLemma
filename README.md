@@ -1,21 +1,25 @@
-<div align="center">
+<table>
+<tr>
+<td width="180">
+
+<img src="./assets/profile.png" width="160" alt="Eyilachew Lemma"/>
+
+</td>
+<td>
 
 # 👋 Hi, I'm Eyilachew Lemma
 
-### Backend Developer · Full-Stack Engineer · DevOps & Cloud Enthusiast
+### Backend Developer · Full-Stack Engineer
+
+### DevOps & Cloud Enthusiast
 
 Building reliable, scalable and maintainable software systems.
 
-<p>
-  <a href="https://github.com/EyilachewLemma">
-    <img src="https://img.shields.io/github/followers/EyilachewLemma?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/EyilachewLemma?tab=repositories">
-    <img src="https://img.shields.io/github/stars/EyilachewLemma?affiliations=OWNER&style=for-the-badge&label=Stars" />
-  </a>
-</p>
+I enjoy designing backend services, scalable APIs, Dockerized applications, CI/CD pipelines, and cloud infrastructure.
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
