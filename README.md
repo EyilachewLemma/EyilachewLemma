@@ -98,7 +98,7 @@ A comprehensive system for managing schools, academic years, courses, students, 
 
 **Focus:** Role-based access control, academic workflows, automated result calculation and certificate generation.
 
-**Technologies:** React · TypeScript · Node.js · SQL · REST APIs
+**Technologies:** Vuejs · JavaScript · Laravel · SQL · REST APIs
 
 ---
 
